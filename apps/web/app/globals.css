@@ -85,3 +85,7 @@ body {
   padding: 0 20px;
   width: 100%;
 }
+
+.kp-direction-flow:nth-child(2n) {
+  direction: rtl;
+}
